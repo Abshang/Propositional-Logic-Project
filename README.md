@@ -31,19 +31,6 @@ This project provides a complete toolkit for working with propositional logic fo
 - **Rule Application**: Apply natural deduction inference rules
 - **Proof Verification**: Validate complete natural deduction proofs with scope management
 
-### Supported Logical Operators
-
-| Operator    | Symbol | Unicode | Usage               |
-| ----------- | ------ | ------- | ------------------- | -------- |
-| Negation    | ¬      | U+00AC  | `~p` or `¬p`        |
-| Conjunction | ∧      | U+2227  | `p ^ q` or `p ∧ q`  |
-| Disjunction | ∨      | U+2228  | `p v q` or `p ∨ q`  |
-| Implication | →      | U+2192  | `p -> q` or `p → q` |
-| False       | ⊥      | U+22A5  | `\_                 | \_`or`⊥` |
-| True        | ⊤      | U+22A4  | `T` or `⊤`          |
-
----
-
 ## Project Structure
 
 ```
